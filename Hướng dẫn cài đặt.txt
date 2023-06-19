@@ -1,0 +1,4 @@
+Import Sql vào SQLSERVER
+Vào File WebConfig
++ Thay đổi source dẫn đến SQLSERVER
++ Thay đổi Initial Catalog giống với SQLSERVER đã cài đặt
